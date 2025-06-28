@@ -344,6 +344,10 @@ a{
     text-align: left;
   }
 
+  .menu-toggle{
+    display: none;
+  }
+
   .h1-main {
     font-size: 1.8rem;
     padding-top: 2rem;
